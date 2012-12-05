@@ -1,0 +1,3 @@
+code/Image.php				app/code/local/Mage/Catalog/Helper/Image.php
+template/uploader.phtml		app/design/adminhtml/default/default/template/cms/browser/content/uploader.phtml
+template/head.phtml			app/design/adminhtml/default/default/template/page/head.phtml
