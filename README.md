@@ -23,13 +23,9 @@ The Image Helper has references images local to the site on first load to avoid 
 
 The magento uploader and TinyMCE references are currently set to reference the site root. Must be altered if your installation exists in a subfolder.
 
-## Author
-
-[Peter Halverson](http://www.aspendigital.com/)
-
 ## License
 
-   Copyright 2012 Aspen Digital
+Copyright 2012 [Aspen Digital](http://www.aspendigital.com/)
 
    Licensed under the Apache License, Version 2.0 (the "License");
    you may not use this file except in compliance with the License.
