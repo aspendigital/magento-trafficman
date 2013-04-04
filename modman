@@ -1,3 +1,4 @@
-code/Image.php				app/code/local/Mage/Catalog/Helper/Image.php
-template/uploader.phtml		app/design/adminhtml/default/default/template/cms/browser/content/uploader.phtml
-template/head.phtml			app/design/adminhtml/default/default/template/page/head.phtml
+code							app/code/local/AspenDigital/TrafficMan
+etc/AspenDigital_TrafficMan.xml	app/etc/modules/AspenDigital_TrafficMan.xml
+template/uploader.phtml			app/design/adminhtml/default/default/template/cms/browser/content/uploader.phtml
+template/head.phtml				app/design/adminhtml/default/default/template/page/head.phtml

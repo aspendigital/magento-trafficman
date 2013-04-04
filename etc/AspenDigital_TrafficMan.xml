@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<config>
+  <modules>
+    <AspenDigital_TrafficMan>
+      <codePool>local</codePool>
+      <active>true</active>
+	  <depends>
+	  	<Mage_Catalog />
+	  </depends>
+    </AspenDigital_TrafficMan>
+  </modules>
+</config>

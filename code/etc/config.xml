@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<modules>
+		<AspenDigital_TrafficMan>
+			<version>1.0</version>
+		</AspenDigital_TrafficMan>
+	</modules>
+
+	<global>
+		<helpers>
+			<catalog>
+				<rewrite>
+					<image>AspenDigital_TrafficMan_Helper_Image</image>
+				</rewrite>
+			</catalog>
+		</helpers>
+	</global>
+
+</config>
